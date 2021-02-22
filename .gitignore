@@ -1,0 +1,5 @@
+**/node_modules/**
+**/public/dist/**
+expensify-app/.gitignore
+expensify-app/.env.test
+expensify-app/.env.development
